@@ -1,5 +1,5 @@
 import random
-words = ['python', 'programming', 'language', 'computer', 'disk', 'dock', 'data',]
+words = ['python', 'programming', 'language', 'computer', 'disk', 'dock', 'data']
 word = random.choice(words)
 guessed = []
 max_attempts = 6
